@@ -1,5 +1,5 @@
 .venv/
-data/
-.ipynb_checkpoints/
+data/*
+!data/README.md
 .DS_Store
 __pycache__/
