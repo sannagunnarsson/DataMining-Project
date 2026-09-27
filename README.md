@@ -84,8 +84,6 @@ DataMining/
 ├── README.md
 ├── .gitignore
 │
-├── analysis.ipynb
-│
 ├── notebooks/
 │   ├── 01_data_exploration.ipynb
 │   ├── 02_preprocessing.ipynb
